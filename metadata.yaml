@@ -1,0 +1,32 @@
+_repo: List-of-Post-Offices-in-Canada-with-the-names-of-the-postmasters-1863_69214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Canada. Post Office Department
+    aliases:
+    - Canada. Post Office Dept.
+    - Department, Canada Post Office
+    gutenberg_agent_id: '35052'
+    url: http://www.gutenberg.org/2009/agents/35052
+description: ''
+gutenberg_issued: '2022-10-23'
+identifiers:
+  gutenberg: '69214'
+language: en
+pgterms:marc905: 20060325153122postmaster
+pgterms:marc906: '1863'
+pgterms:marc907: CA
+production_note: WebRover, Adrian Mastronardi, The Philatelic Digital Library Project
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: 'Canada: Josiah Blackburn,1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Canada -- Guides'
+- !lcc 'HE'
+- GITenberg
+title: List of Post Offices in Canada, with the names of the postmasters ... 1863
+url: http://www.gutenberg.org/ebooks/69214
