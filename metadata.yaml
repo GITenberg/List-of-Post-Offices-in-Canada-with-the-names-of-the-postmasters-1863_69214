@@ -1,5 +1,8 @@
 _repo: List-of-Post-Offices-in-Canada-with-the-names-of-the-postmasters-1863_69214
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69214-h/images/cover.jpg
 creator:
   author:
     agent_name: Canada. Post Office Department
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '35052'
     url: http://www.gutenberg.org/2009/agents/35052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69214#List-of-Post-Offices-in-Canada-with-the-names-of-the-postmasters-1863
 gutenberg_issued: '2022-10-23'
 identifiers:
   gutenberg: '69214'
